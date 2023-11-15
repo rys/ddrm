@@ -1,0 +1,6 @@
+.vscode/
+bin/*
+dist/*
+ddrm.conf
+ddrm-records.conf
+error.log

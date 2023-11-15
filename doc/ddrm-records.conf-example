@@ -1,0 +1,7 @@
+[
+	{
+		"fqdn": "sommefeldt.com",
+		"type": "A",
+		"expected_values": [""]
+	}
+]

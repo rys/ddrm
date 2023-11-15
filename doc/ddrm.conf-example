@@ -1,0 +1,19 @@
+{
+	"email_user": "<username>",
+	"email_password": "<password>",
+	"email_server_hostname": "<hostname>",
+	"email_server_port": "587",
+	"email_user_name": "DDRM Record Monitor",
+	"email_to": "rys@sommefeldt.com",
+	"email_to_name": "Rys Sommefeldt",
+	"dns_server_1": "8.8.8.8:53",
+	"dns_server_2": "1.1.1.1:53",
+	"email_sender_name": "DDRM Record Monitor",
+	"email_link": "https://rys.sommefeldt.com/",
+	"email_logo": "",
+	"email_subject": "DDRM - Detected Record Change",
+	"redis_database": 0,
+	"redis_password", "",
+	"redis_server": "localhost:6379".
+	"redis_key_prefix": "ddrm"
+}
